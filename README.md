@@ -1,2 +1,16 @@
 # CodeAlpha_BasicNetworkSniffer
-Python-based network packet sniffer using Scapy for capturing and analyzing network traffic.
+
+## Description
+A Python-based network packet sniffer developed using Scapy.
+
+## Features
+- Captures network packets
+- Monitors network traffic
+- Displays packet summaries
+
+## Technologies Used
+- Python
+- Scapy
+
+## Output
+Successfully captured network packets and analyzed network traffic.
